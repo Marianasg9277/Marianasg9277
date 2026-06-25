@@ -24,5 +24,5 @@ I have consolidated all my university projects into a single portfolio repositor
 ---
 
 ### 📬 Let's Connect!
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([in/marianasg9277)](https://www.linkedin.com/in/marianasg9277/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/marianasg9277/)
 * 📧 marianasg9277@gmail.com
